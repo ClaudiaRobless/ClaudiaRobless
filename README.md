@@ -2,7 +2,7 @@
 ## Perfil de Claudia Robles
 
 Este texto utiliza el lenguaje **Markdown**.
-Para hacer párrafosnuevos tengo que usar el "enter" dos veces
+Para hacer párrafos nuevos tengo que usar el "enter" dos veces
 
 Con una sola, no hace párrafos
 
@@ -18,4 +18,4 @@ Con una sola, no hace párrafos
   2. Podría poner incluso el mismo número siempre, porque ***Markdown*** me recalcula los números.
   1.Así no tengo que preocuparse de eso.
 
-LOs enlaces usan paréntesis y corchetes.
+Los enlaces usan paréntesis y corchetes.
